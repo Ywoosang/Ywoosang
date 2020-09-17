@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-경희대학교 소프트웨어 융합학과 20  ✨ 
+
+경희대학교 소프트웨어 융합학과 20  ✨  <br>
 개발 6개월차 🌱  
 
 
