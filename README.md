@@ -1,6 +1,8 @@
 
 <b>개발 6개월차 새내기입니다<b>:) <br>  
 경희대학교 소프트웨어 융합학과 20학번 재학중입니다.</b> <br>
+<br>
+* * * 
   * ![Language badge](https://img.shields.io/badge/-WebCrawling-black?style=for-the-badge) <b>과<b> ![Language badge](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=Flask) <b>를 이용한 웹개발에 관심이 많습니다. 
   * <b>IDE는</b> ![Language badge](https://img.shields.io/badge/-Jupyter-gray?style=for-the-badge&logo=jupyter) ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff&link=https://code.visualstudio.com/) ![Language badge](https://img.shields.io/badge/-pycharm-black?style=for-the-badge&logo=pycharm) 을 사용중입니다. 
   
@@ -12,6 +14,6 @@
   * 추가적으로 ![Language badge](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB) 도 공부중입니다. 
 
 * * * 
-  <b>&lt;연락처 &gt;<b> 
+ ### <b>&lt;연락처 &gt;<b> 
   ![INASTA](https://img.shields.io/badge/Instagram-ydwsang-beige?style=for-the-badge&logo=instagram&link=https://www.instagram.com/yd_w_sang/)   
   ![INASTA](https://img.shields.io/badge/Kakaotalk-hi1317-FFF000?style=for-the-badge&logo=kakao&link=https://www.instagram.com/yd_w_sang/)
