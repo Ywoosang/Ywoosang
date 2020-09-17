@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 경희대학교 소프트웨어 융합학과 20  ✨  <br>
 개발 6개월차 🌱  
+![Language badge](https://img.shields.io/badge/-Python-black?logo=python) 을 주로 사용합니다
 
 
 
