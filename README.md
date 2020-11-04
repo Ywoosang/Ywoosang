@@ -11,7 +11,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff&link=https://code.visualstudio.com/)
 ![Brackets](https://img.shields.io/badge/Brackets-4e5456?style=for-the-badge&logo=Brackets&logoColor=fff&link=https://code.visualstudio.com/) 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ywoosang"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ywoosang&hide=html&theme=yeblu"/>
 
 ### Using
 ![Language badge](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5) 
