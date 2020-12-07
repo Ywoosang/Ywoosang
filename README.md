@@ -1,6 +1,6 @@
 ## <em>Welcome to my GitHub 
 ### "Please feel free to look around :) " </em> 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ywoosang&show_icons=true&hide=contribs,prs&theme=radical"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ywoosang&show_icons=true&theme=radical"/>
  
 ### <em> About Me</em>
 - beginner-level web developer.<br>
