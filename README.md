@@ -1,6 +1,8 @@
 ## <em>Welcome to my GitHub 
 ### "Please feel free to look around :) " </em> 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ywoosang&show_icons=true&theme=radical"/>
+ 
+
+![Ywoosang's github stats](https://github-readme-stats.vercel.app/api?username=Ywoosang&align=right&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
  
 ### <em> About Me</em>
 - beginner-level web developer.<br>
@@ -10,8 +12,9 @@
 ![Language badge](https://img.shields.io/badge/-Jupyter-gray?style=for-the-badge&logo=jupyter) 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff&link=https://code.visualstudio.com/)
 ![Brackets](https://img.shields.io/badge/Brackets-4e5456?style=for-the-badge&logo=Brackets&logoColor=fff&link=https://code.visualstudio.com/) 
+ 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ywoosang&hide=html&theme=yeblu"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ywoosang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=html&theme=yeblu"/>
 
 ### Using
 ![Language badge](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5) 
