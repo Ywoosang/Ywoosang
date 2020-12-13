@@ -44,6 +44,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff) 
 ![Language badge](https://img.shields.io/badge/-React-F7F7F7?style=for-the-badge&logo=react&logoColor=)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00add8?style=for-the-badge&logo=go&logoColor=fff)
  
 ### <em>Feel free to call me anytime :)</em>
   ![INASTA](https://img.shields.io/badge/Instagram-ydwsang-beige?style=for-the-badge&logo=instagram&link=https://www.instagram.com/yd_w_sang/)   
