@@ -7,22 +7,22 @@
 ### Editor in use
 ![Language badge](https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter) 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff&link=https://code.visualstudio.com/)
- 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ywoosang&hide=html&bg_color=130,7FD5EA,FFFFFF&title_color=fff&text_color=black"/>
 
 ### Main Skillset 
- 
+
+![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff) 
 ![Javascript](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=Flask) 
 ![Language badge](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python) 
 
 ### Learning
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff) 
-![Go](https://img.shields.io/badge/-Go-00add8?style=for-the-badge&logo=go&logoColor=fff)
-![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white) 
-<br>
 
+![Go](https://img.shields.io/badge/-Go-00add8?style=for-the-badge&logo=go&logoColor=fff) 
+![Deno](https://img.shields.io/badge/-deno-000?style=for-the-badge&logo=deno&logoColor=fff) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white) 
+ 
+<br>
  
 ###  If you want to contact me  
   ![Gmail](https://img.shields.io/badge/opellong13@gmail.com-ME-d14836?style=for-the-badge&logo=gmail&link=mailto:opellong13@gmail.com) 
