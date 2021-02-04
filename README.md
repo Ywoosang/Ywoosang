@@ -11,6 +11,7 @@
 
 ### Main Skillset 
 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Go](https://img.shields.io/badge/-Go-00add8?style=for-the-badge&logo=go&logoColor=fff)
 ![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Javascript](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
@@ -25,7 +26,6 @@
 
 ### To learn 
 ![Spring](https://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Deno](https://img.shields.io/badge/-deno-000?style=for-the-badge&logo=deno&logoColor=fff)
 
 ###  If you want to contact me  
