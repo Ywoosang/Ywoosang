@@ -11,7 +11,7 @@
 ## Languages & Tools
 
 ### Focuse On
-
+![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
@@ -23,7 +23,9 @@
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=Flask) 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python) 
 ![Javascript](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000) 
-
+![C](https://img.shields.io/badge/c-ffffff?style=for-the-badge&logo=c&ogoColor=white) 
+![CPP](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white) 
+    
 ### Learning  
 
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=fff)
