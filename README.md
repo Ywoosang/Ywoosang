@@ -2,11 +2,8 @@
 ### <em> If everything went well, there's nothing for me to do. </em>
 <img src="https://github-readme-stats.vercel.app/api/?username=Ywoosang&bg_color=000000&title_color=ffffff&text_color=ffffff" />
 
-## Editor in use
- 
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff&link=https://code.visualstudio.com/)
-![EclipseIDE](https://img.shields.io/badge/-EclipseIDE-2C2255?style=for-the-badge&logo=eclipseiDE&logoColor=f7df1e) 
-![Language badge](https://img.shields.io/badge/-JupyterNoteBook-white?style=for-the-badge&logo=jupyter)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ywoosang&bg_color=000000&title_color=ffffff&text_color=ffffff&hide=html,css&layout=compact)]()
 
 ## Languages & Tools
 
