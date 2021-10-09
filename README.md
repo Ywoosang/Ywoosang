@@ -29,4 +29,3 @@
 <a align="center" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYwoosang&count_bg=%23ED6DA3&title_bg=%black&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=True"/></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=balck&height=60&section=footer&text=Feel%20free%20to%20look%20around%20!&fontSize=30&fontAlign=30&animation=blinking&fontColor=ffffff)
->>>>>>> 539f223... Update Readme.md
