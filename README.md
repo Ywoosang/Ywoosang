@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api/?username=Ywoosang&bg_color=000000&title_color=ffffff&text_color=ffffff" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ywoosang&bg_color=000000&title_color=ffffff&text_color=ffffff&hide=html,css&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ywoosang&bg_color=000000&title_color=ffffff&text_color=ffffff&hide=html,css,c,c++,go&layout=compact)]()
 
 ## Languages & Tools
 
@@ -13,28 +13,15 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-3FB27F?style=for-the-badge&logo=vue.js&logoColor=ffffff)  
 
-### Have Experience On
+### Additional skills 
  
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
+![Javascript](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=Flask) 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python) 
-![Javascript](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000) 
-![C](https://img.shields.io/badge/c-ffffff?style=for-the-badge&logo=c&ogoColor=white) 
-![CPP](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white) 
-    
-### Learning  
-
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=fff)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=ffffff)
-![JAVA](https://img.shields.io/badge/Java-2A6D92?style=for-the-badge&logo=java&logoColor=ffffff) 
-![Spring](https://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
-
-### For Fun
-![Vue.js](https://img.shields.io/badge/-Vue.js-3FB27F?style=for-the-badge&logo=vue.js&logoColor=ffffff)  
- 
- 
-
 
 ## Contact Me  
  
