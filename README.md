@@ -5,6 +5,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ywoosang)](https://solved.ac/ywoosang)
 
+[![ywoosang-blog-server](https://github-readme-stats.vercel.app/api/pin/?username=Ywoosang&repo=ywoosang-blog-server&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/react-native-css#gh-dark-mode-only)
+
 #### Primary Tech Stack
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
@@ -22,6 +24,11 @@
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+
+#### Tech-Blog
+
+[![ywoosang-blog-server](https://github-readme-stats.vercel.app/api/pin/?username=Ywoosang&repo=ywoosang-blog-server&border_color=ddd&locale=kr&bg_color=ffffff&text_color=768383&count_private=true&show_tag=true&include_all_commits=true)](https://github.com/Ywoosang/ywoosang-blog-server)
+[![ywoosang-blog-client](https://github-readme-stats.vercel.app/api/pin/?username=Ywoosang&repo=ywoosang-blog-client&border_color=ddd&locale=kr&bg_color=ffffff&text_color=768383&count_private=true&show_tag=true&include_all_commits=true)](https://github.com/Ywoosang/ywoosang-blog-client)
 
 #### Contact Me
  
