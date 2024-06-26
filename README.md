@@ -7,20 +7,9 @@
 
 #### Primary Tech Stack
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![NestJS](https://img.shields.io/badge/-Nest.js-ea2845?style=for-the-badge&logo=NestJs&logoColor=ffffff)
-![Express](https://img.shields.io/badge/express-EEEEEE.svg?&style=for-the-badge&logo=express&logoColor=black)
-![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
-![Javascript](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
-
-![Postgres](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Vue.js](https://img.shields.io/badge/-Vue.js-3FB27F?style=for-the-badge&logo=vue.js&logoColor=ffffff)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+**Backend** : SpringBoot, JPA, NodeJS(NestJS), TypeORM, MySQL  
+**Frontend** : Javascript, Typescript, Vue, Vuex, Nuxt, Pinia, Quasar  
+**Infra** : AWS, Docker  
 
 
 #### Contact Me
